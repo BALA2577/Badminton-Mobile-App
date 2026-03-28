@@ -1,0 +1,7 @@
+{
+  "name": "Badminton Pro",
+  "description": "A clean and modern badminton match scoring and performance tracking app with calendar and history views.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
